@@ -1,0 +1,43 @@
+---
+
+enum DetailType {
+	title = 'title',
+	subtitle = 'subtitle',
+	description = 'description',
+}
+
+const details: {
+	type: DetailType;
+	content: string;
+}[] = [
+	{
+		type: DetailType.title,
+		content: `Hi, I'm Cristian! 👋`,
+	},
+	{
+		type: DetailType.subtitle,
+		content: 'Software Engineer',
+	},
+	{
+		type: DetailType.description,
+		content: 'I am a software engineer with a passion for web development and design. I am currently working as a full-stack developer at a startup in Barcelona. I am always looking for new opportunities to learn and grow as a developer.',
+	},
+];
+
+const getClass = (type: DetailType) => {
+	switch (type) {
+		case DetailType.title:
+			return 'font-sora text-4xl font-bold tracking-wide md:text-5xl animate-fade-up duration-300';
+		case DetailType.subtitle:
+			return 'text-xs font-light tracking-wide md:text-sm duration-300';
+		case DetailType.description:
+			return 'text-sm font-normal tracking-wide md:text-base animate-fade-in duration-300 max-w-prose text-center';
+	}
+};
+---
+
+<div
+	class="grid grid-cols-1 place-content-center place-items-center gap-5"
+>
+	{details.map((detail) => <p class={getClass(detail.type)}>{detail.content}</p>)}
+</div>

@@ -1,0 +1,16 @@
+---
+import { Image } from 'astro:assets';
+
+const src = 'https://avatars.githubusercontent.com/u/2737145?v=4';
+---
+
+<div class="flex justify-center items-center rounded-full border-4 border-gray-950">
+	<Image
+		src={src}
+		alt="Cristian Tiry"
+		width={156}
+		height={156}
+		class="animate-zoom-in-out rounded-full size-36 md:size-40 p-0.5 duration-600"
+		loading="eager"
+	/>
+</div>
