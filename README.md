@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a strong interest in backend and full-stack development. I love solving problems and
-creating efficient, scalable solutions. I'm always looking to learn new technologies and improve my skills.
+I'm a passionate developer with a strong interest on full-stack development. I love solving problems and
+creating efficient and scalable solutions. I'm always looking to learn new technologies and improve my skills.
 
 ## 🛠️ Tech Stack
 
