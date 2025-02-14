@@ -77,17 +77,7 @@ creating efficient and scalable solutions. I'm always looking to learn new techn
 </p>
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=ctiry01&hide_border=true&theme=nightowl" />
-</p>
-<p align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=ctiry01&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=nightowl" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ctiry01&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
-</p>
-
-<p align="right">
-  <img src="https://badges.pufler.dev/visits/ctiry01/aitormunoz?color=black&logo=github" />
-</p>
+![ctiry01 GitHub stats](https://github-readme-stats.vercel.app/api?username=ctiry01&theme=dark&show_icons=true)
 
 ## 🌐 Connect with me
 
