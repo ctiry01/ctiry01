@@ -40,14 +40,13 @@ creating efficient and scalable solutions. I'm always looking to learn new techn
   <a target="_blank" href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
 </p>
 
-### Deployment
+### DevOps & Deployment
 
 <p align="left">
-  <a target="_blank" href="https://aws.amazon.com/ec2/"><img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" alt="EC2"/></a>
-  <a target="_blank" href="https://aws.amazon.com/ecs/"><img src="https://img.shields.io/badge/ECS-FF9900?style=for-the-badge&logo=amazonecs&logoColor=white" alt="ECS"/></a>
-  <a target="_blank" href="https://aws.amazon.com/lambda/"><img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white" alt="Lambda"/></a>
-    <a target="_blank" href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
+  <a target="_blank" href="https://aws.amazon.com/"><img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></a>
+  <a target="_blank" href="https://vercel.com/"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/></a>
   <a target="_blank" href="https://www.nginx.com/"><img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/></a>
+  <a target="_blank" href="https://httpd.apache.org/"><img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/></a>
 
 </p>
 
@@ -57,6 +56,8 @@ creating efficient and scalable solutions. I'm always looking to learn new techn
   <a target="_blank" href="https://phpunit.de/"><img src="https://img.shields.io/badge/PHPUnit-000000?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit"/></a>
   <a target="_blank" href="https://jestjs.io/"><img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/></a>
   <a target="_blank" href="https://www.cypress.io/"><img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt="Cypress"/></a>
+  <a target="_blank" href="https://playwright.dev/"><img src="https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright"/></a>
+  <a target="_blank" href="https://vitest.dev/"><img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/></a>
 </p>
 
 ### Development Tools
@@ -65,7 +66,7 @@ creating efficient and scalable solutions. I'm always looking to learn new techn
   <a target="_blank" href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
   <a target="_blank" href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/></a>
   <a target="_blank" href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
-  <a target="_blank" href="https://www.jetbrains.com/idea/"><img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA"/></a>
+  <a target="_blank" href="https://www.jetbrains.com/"><img src="https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white" alt="JetBrains"/></a>
 </p>
 
 ### Operating Systems
@@ -73,11 +74,9 @@ creating efficient and scalable solutions. I'm always looking to learn new techn
 <p align="left">
   <a target="_blank" href="https://www.apple.com/macos/"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/></a>
   <a target="_blank" href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/></a>
-  <a target="_blank" href="https://www.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/></a>
+  <a target="_blank" href="https://www.microsoft.com/en-us/windows/"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white" alt="Windows"/></a>
 </p>
 
-## 📊 GitHub Stats
-![ctiry01 GitHub stats](https://github-readme-stats.vercel.app/api?username=ctiry01&theme=dark&show_icons=true)
 
 ## 🌐 Connect with me
 
